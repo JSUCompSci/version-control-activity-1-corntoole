@@ -1,5 +1,5 @@
 // CStringDemo.cpp : Demonstrates how to compute length of a c-string
-//
+// 2/12/16
 
 #include "stdafx.h"
 #include <iostream>
