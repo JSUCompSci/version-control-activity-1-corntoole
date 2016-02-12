@@ -23,7 +23,7 @@ int length(char *str) {
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	char *myStr = "Bob";
+	char *myStr = "Joe";
 	cout << length(myStr) << endl;
 	cout << strlen(myStr) << endl;
 	cin.ignore();
